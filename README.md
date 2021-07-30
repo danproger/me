@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Gutsuliak
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning one of the most popular php-frameworks Laravel
 - 💞️ I’m looking to collaborate on a developers group
